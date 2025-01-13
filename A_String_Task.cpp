@@ -2,7 +2,6 @@
 using namespace std;
 
 
-
 int main(){
     vector <char> Words;
     string firestInput;

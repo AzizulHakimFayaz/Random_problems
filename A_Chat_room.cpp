@@ -10,7 +10,7 @@ void takeString(string s){
                 if(s[j]==h||(s[j+1]==))
             ]
         }
-    }
+    }P
 }
 
 int main(){
